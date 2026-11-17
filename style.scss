@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 800px;
+  background-color: yellow;
+}
+
+h1 {
+  align-items: center;
+  color: red;
+  text-align: center;
+  padding-top: 25px;
+  height: 100px;
+}
+
+.cart {
+  padding-left: 200px;
+  gap: 50px;
+}
+
+.foto {
+  background-color: rgb(76, 198, 6);
+  border-radius: 10px;
+}
+
+.text {
+  display: flex;
+  color: white;
+}
+
+/*# sourceMappingURL=style.scss.map */
